@@ -1,0 +1,25 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore environment variable files
+.env
+.env.*
+!.env.example
+
+# Ignore build output
+dist/
+
+# Local logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+# End of Selection
+```
