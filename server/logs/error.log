@@ -100,3 +100,5 @@
     at NativeConnection.openUri (C:\Users\jolam\Documents\FinFlow Pro\server\node_modules\mongoose\lib\connection.js:1100:11)
     at async connectDB (C:\Users\jolam\Documents\FinFlow Pro\server\src\config\database.ts:14:18)
     at async start (C:\Users\jolam\Documents\FinFlow Pro\server\src\server.ts:9:3)
+2026-03-12 21:20:17 [error]: Error: querySrv ECONNREFUSED _mongodb._tcp.dataclusterx32.yf4804r.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)

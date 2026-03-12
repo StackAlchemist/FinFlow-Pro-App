@@ -108,3 +108,5 @@
 2026-03-10 10:21:00 [info]: MongoDB connected: ac-evf0hnm-shard-00-00.yf4804r.mongodb.net
 2026-03-10 10:21:00 [info]: 🚀 FinFlow Pro running on port 5000 [undefined]
 2026-03-10 10:21:00 [info]: 📋 Health: http://localhost:5000/health
+2026-03-12 21:20:17 [error]: Error: querySrv ECONNREFUSED _mongodb._tcp.dataclusterx32.yf4804r.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)
